@@ -7,7 +7,7 @@ class Ui(QtWidgets.QMainWindow):
     '''constructor'''
     def __init__(self):
         super(Ui, self).__init__()
-        uic.loadUi('/Users/tomknight/GUI-programming/GUI-programming/login.ui', self) #loads ui we just created for this class
+        uic.loadUi('/Users/tomknight/GUI-programming/GUI-programming/login-copy.ui', self) #loads ui we just created for this class
   
         #add button functionality
         
